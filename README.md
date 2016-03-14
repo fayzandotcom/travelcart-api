@@ -3,16 +3,17 @@
 Web service for TravelCart e-commerce project.
 This project is developed to use as bakcend API for TravelCart project (https://github.com/fayzandotcom/TravelCart)
 
-## Installation
-
-1. Run the SQL script in MySQL database.
-2. Deploy travelcart-api to web server with php 5.5
-3. Edit "config.php" under cfg folder. Provide database name, username and password.
-
 ## Platform/Framework
 
 1. PHP 5.5
 2. Slim Framework v2.4.2 (www.slimframework.com)
+
+## Installation
+
+1. Run the SQL script in MySQL database.
+2. Deploy travelcart-api to web server (i.e. apache) with php 5.5
+3. Edit "config.php" under cfg folder. Provide database name, username and password.
+4. In Apache modules enable the ‘rewrite_module’
 
 ## Contributing
 
