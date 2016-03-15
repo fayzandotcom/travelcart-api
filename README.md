@@ -7,6 +7,7 @@ This project is developed to use as bakcend API for TravelCart project (https://
 
 1. PHP 5.5
 2. Slim Framework v2.4.2 (www.slimframework.com)
+3. MySQL
 
 ## Installation
 
